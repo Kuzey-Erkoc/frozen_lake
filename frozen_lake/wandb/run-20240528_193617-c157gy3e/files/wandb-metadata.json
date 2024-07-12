@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.7.6",
+    "heartbeatAt": "2024-05-28T16:36:19.009891",
+    "startedAt": "2024-05-28T16:36:17.740810",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": null,
+        "commit": "31896f4a0b94d9db576d44adb3ce06ea8ce9fd35"
+    },
+    "email": "88731738+Kuzey-Erkoc@users.noreply.github.com",
+    "root": "C:/Users/Lenovo/Documents/frozen_lake",
+    "host": "DESKTOP-ECG9JSB",
+    "username": "Lenovo",
+    "executable": "c:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1600.0,
+        "min": 0.0,
+        "max": 1800.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1600.0,
+            "min": 0.0,
+            "max": 1800.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 237.20663452148438,
+            "used": 168.75120162963867
+        }
+    },
+    "memory": {
+        "total": 7.877658843994141
+    }
+}
