@@ -14,7 +14,7 @@ wandb: Directory for Weights & Biases logs (if used).
 
 **Getting Started**
 Clone the repository:
-git clone https://github.com/your-username/frozenlake-deepqlearning.git
+git clone https://github.com/Kuzey-Erkoc/frozen_lake.git
 
 **Install the dependencies:**
 pip install -r requirements.txt
